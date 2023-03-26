@@ -1,6 +1,6 @@
 
 #Orbit_Estimation_tool
-This workpackage consists of two primary tool which includes Orbit Estimation tool and State Vector to TLE conversion tool.
+This workpackage consists of two primary tools which includes Orbit Estimation tool and State Vector to TLE conversion tool.
 Orbit Estimation tool, uses GPS data in terms of position and velocity vectors from satellites, and then Batch Least Square Estimator algorithm is engineered to genearte one single value for all the parameters in the dataset which can be further used to generate Keplerian parameters and find the exact position of the satellite. The tool is validated using satellite simulation tool with an accuracy of 99.8%
 
 #State_to_TLE
